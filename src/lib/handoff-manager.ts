@@ -6,14 +6,15 @@ import { createServerClient } from './supabase';
 import type { AudienceType } from '@/types';
 
 // Resend email client (lazy init)
-let resendClient: { emails: { send: (params: unknown) => Promise<unknown> } } | null = null;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+let resendClient: any = null;
 
 async function getResend() {
   if (!resendClient) {
     const { Resend } = await import('resend');
     resendClient = new Resend(process.env.RESEND_API_KEY);
   }
-  return resendClient;
+  return resendClient!;
 }
 
 /**
