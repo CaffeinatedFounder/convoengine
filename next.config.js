@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Allow embedding the chat widget on external sites
+  // Allow embedding the chat widget on external sites (iframe on Wix)
   async headers() {
     return [
       {
