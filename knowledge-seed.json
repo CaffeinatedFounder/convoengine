@@ -1,0 +1,227 @@
+[
+  {
+    "title": "What is Afterlife?",
+    "content": "Afterlife is India's first digital succession planning platform. It helps you organise, secure, and deliver your important information, heartfelt messages, and emotions to your chosen ones, exactly when and how you wish. Afterlife is built by AL Experiences and Solutions Pvt. Ltd. The tagline is 'Your friend for Life and Beyond.' Over ₹1.8 trillion lies unclaimed with Indian financial institutions — Afterlife exists to solve this problem by helping families plan ahead.",
+    "category": "general"
+  },
+  {
+    "title": "Afterlife Core Features Overview",
+    "content": "Afterlife has four core features: 1) Digital Vault — Add, organise, assign, and deliver. Secure all your important information and documents in one place. You can assign specific documents and information to specific people. 2) Digital Will — Your succession at your fingertips. Plan and re-plan your succession with ease. Create your will digitally in minutes. 3) Organ Pledge — Live beyond life. Pledge your organs so that as you complete your journey, you help others continue theirs. 4) Claim Assistance — A helping hand. Ensures a hassle-free process for succession, counselling, claim assistance and more. 5) Afterlife Messages — Leave nothing unsaid. Let your messages stay here with your loved ones, even after you. You can write heartfelt messages, record videos, and schedule them for future delivery.",
+    "category": "features"
+  },
+  {
+    "title": "Digital Vault Feature",
+    "content": "The Digital Vault in Afterlife lets you organise, assign, and deliver your important information securely. You can store financial information (bank accounts, investments, insurance policies, fixed deposits), legal documents, property papers, passwords, and any other sensitive information. Each item in the vault can be assigned to specific Trusted Contacts (Buddies or Secretkeepers) who will receive access only when needed. The vault uses end-to-end encryption and geo-redundant storage to keep your data safe. Think of it as a secure digital locker that ensures your family can find everything they need, without the usual struggle of tracking down scattered documents and accounts.",
+    "category": "features"
+  },
+  {
+    "title": "Digital Will Feature",
+    "content": "Afterlife's Digital Will feature allows you to create and manage your succession plan digitally. You can plan and re-plan your succession with ease — it takes just minutes to set up. The Digital Will lets you specify who gets what, assign beneficiaries to specific assets, and update your will anytime as your circumstances change. This is not a legally registered will but a comprehensive succession planning document that gives your family clear guidance on your wishes. For legal will registration, you would need to follow the standard legal process, but the Digital Will ensures nothing is left ambiguous.",
+    "category": "features"
+  },
+  {
+    "title": "Organ Pledge Feature",
+    "content": "The Organ Pledge feature in Afterlife allows you to pledge your organs so that when your journey ends, you can help others continue theirs. This is a noble way to live beyond life. The feature makes the otherwise complex organ donation pledge process very convenient and accessible directly from the app.",
+    "category": "features"
+  },
+  {
+    "title": "Claim Assistance Feature",
+    "content": "Afterlife's Claim Assistance provides a helping hand to your loved ones when they need it most. It ensures a hassle-free process for succession, counselling, and claim assistance. When a family member needs to claim insurance, access bank accounts, transfer property, or handle any financial succession matter, Afterlife's claim assistance service guides them through the process step by step. This is available as a pay-as-you-use ancillary service.",
+    "category": "features"
+  },
+  {
+    "title": "Afterlife Messages Feature",
+    "content": "Afterlife Messages lets you leave nothing unsaid. You can write heartfelt messages to your loved ones that will be delivered to them at the time and in the way you choose. Whether it is a birthday wish for your grandchild years from now, a message of comfort for your spouse, or important instructions for your family — your words stay here with your loved ones, even after you. Messages can be scheduled for specific dates or triggered by specific events.",
+    "category": "features"
+  },
+  {
+    "title": "Pricing and Plans",
+    "content": "Afterlife offers lifetime access for a one-time payment. The standard price is ₹7,999 + GST. Currently there is a limited period promotional offer at ₹3,999 + GST for lifetime access. This includes full access to the Digital Vault, Digital Will, Organ Pledge, Messages, and Trusted Contacts features. Claim Assistance is available as a separate pay-as-you-use ancillary service. There is no recurring subscription — you pay once and get lifetime access. As the tagline says: 'Give your loved ones the gift of a seamless transition for the cost of one family dinner.'",
+    "category": "pricing"
+  },
+  {
+    "title": "How to Access Afterlife — Sign Up Process",
+    "content": "Afterlife is an invite-only platform, but you can still create an account without an invite code. Here is how to get started: Step 1: Sign up and complete your KYC (Know Your Customer) verification. Step 2: Add your people — decide what they see, what they get, and what they know. Add Trusted Contacts (Buddies and Secretkeepers). Step 3: Organise, secure, ensure, and deliver — add documents, create a will, write messages. Step 4: Plan your legacy your way — assign and schedule, that's it! The app is available on both iOS (App Store) and Android (Google Play Store). You can also access it at app.myafterlife.in.",
+    "category": "process"
+  },
+  {
+    "title": "Trusted Contacts — Buddies and Secretkeepers",
+    "content": "In Afterlife, you add Trusted Contacts who are the people you want to receive your information, documents, and messages. There are two types: Buddies and Secretkeepers. You decide what each trusted contact can see, what they get, and what they know. Each trusted contact's identity is verified through Aadhaar-based KYC via DigiLocker, ensuring that only verified individuals can be added as trusted contacts. You can assign specific vault items, will sections, and messages to specific trusted contacts.",
+    "category": "features"
+  },
+  {
+    "title": "Security and Data Protection",
+    "content": "Afterlife takes security extremely seriously. Here are the key security measures: 1) One User, One KYC, One Device — your account is tied to a single verified identity and device. 2) Passkey-enabled secure login with a six-digit PIN — password-less, phishing-resistant authentication. 3) End-to-End Encryption (E2EE) — all files and messages are encrypted on your device before transmission and remain encrypted until the recipient accesses them. 4) Geo-Redundant Storage (GRS) — encrypted data is replicated across geographically distant locations for disaster recovery. 5) Digital signatures are applied to all files and messages, ensuring they remain unaltered. 6) Comprehensive logging and monitoring — all access events are logged in an encrypted, tamper-proof audit trail. 7) ISO-certified security standards. 8) Aadhaar-based KYC verification via DigiLocker integration. All data is stored within India through Microsoft Azure.",
+    "category": "security"
+  },
+  {
+    "title": "KYC Verification Process",
+    "content": "Afterlife uses Aadhaar-based KYC (Know Your Customer) verification via direct integration with DigiLocker. As a verified DigiLocker partner, Afterlife ensures a secure and reliable identity verification process. During sign-up, you will be asked to verify your identity through DigiLocker using your Aadhaar number. This verification is mandatory to ensure the security of the platform and protect all users. Your trusted contacts also undergo Aadhaar-based KYC verification. The KYC process collects: full name, contact number, email address, Aadhaar number, residential address, date of birth, and gender.",
+    "category": "security"
+  },
+  {
+    "title": "Company Information",
+    "content": "Afterlife is built by AL Experiences and Solutions Pvt. Ltd. The company is based in Mumbai, India at 801, Atlanta Centre, Sonawala Road, Goregaon East, Mumbai, Maharashtra - 400063. For support, you can reach them at: Email: hello@myafterlife.in, Phone: +91 8879073748. The Grievance Redressal Officer is Sheetal Koul, reachable at grievance@myafterlife.in. The company is ISO-certified and compliant with the Information Technology Act 2000 and the Digital Personal Data Protection Act 2023 (India).",
+    "category": "general"
+  },
+  {
+    "title": "Privacy and Data Handling",
+    "content": "Afterlife does not sell or rent your personal data to any third party. Data may be shared with: DigiLocker for Aadhaar-based KYC, payment gateways like Razorpay and PayU for transactions, government authorities when legally required, and trusted service providers under strict confidentiality agreements. Your data is retained as long as your account is active. Upon account deletion, all personal data, documents, vaults, logs, and tokens are permanently erased unless required by law. You can request deletion via the app or by writing to hello@myafterlife.in. The platform is not intended for individuals under 18.",
+    "category": "security"
+  },
+  {
+    "title": "Why Afterlife Exists — The Problem",
+    "content": "Over ₹1.8 trillion (₹1,80,000 crore) lies unclaimed with Indian financial institutions. When someone passes away, their loved ones often struggle to access important information and assets — bank accounts, insurance policies, investments, property documents, passwords, and more. Families spend months or years trying to track down scattered financial information, often missing out on assets they did not even know existed. Afterlife solves this problem by giving you a single platform to organise everything, assign it to the right people, and ensure a seamless transition when the time comes.",
+    "category": "general"
+  },
+  {
+    "title": "Compliance and Certifications",
+    "content": "Afterlife is compliant with: the Information Technology Act 2000, the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021, and the Digital Personal Data Protection Act 2023 (India). The company is ISO-certified and follows globally recognised information security standards. Afterlife is a verified DigiLocker partner for Aadhaar-based KYC verification. All data is stored in India through Microsoft Azure with geo-redundant storage for disaster recovery.",
+    "category": "security"
+  },
+  {
+    "title": "How to Get the App",
+    "content": "Afterlife is available as a mobile app on both iOS and Android: Download from the Apple App Store for iPhone, download from the Google Play Store for Android devices. You can also access the web version at app.myafterlife.in. The main website is www.myafterlife.in. To get started, download the app, sign up, complete your KYC verification, and start organising your digital legacy.",
+    "category": "process"
+  },
+  {
+    "title": "Refund and Payment Information",
+    "content": "Afterlife accepts payments through PayU payment gateway. The pricing is a one-time lifetime payment of ₹7,999 + GST (currently ₹3,999 + GST during the promotional offer). For any questions about payments, refunds, or billing, you can contact support at hello@myafterlife.in or call +91 8879073748. You can also raise a grievance with the Grievance Redressal Officer Sheetal Koul at grievance@myafterlife.in. Complaints are acknowledged within 48 hours and resolved within 15 working days.",
+    "category": "pricing"
+  },
+  {
+    "title": "Afterlife for Businesses (B2B)",
+    "content": "Afterlife works with financial advisors, wealth managers, insurance companies, and other financial institutions as a B2B partner. If you are a financial advisor or represent a company and want to offer Afterlife as a value-added service to your clients, please get in touch with our team. Afterlife can be offered as an employee benefit or a client retention tool. For B2B enquiries, you can request a callback from our team or email us at hello@myafterlife.in.",
+    "category": "b2b"
+  },
+  {
+    "title": "User Testimonials and Reviews",
+    "content": "Here is what Afterlife users say: Sanjana Jain says 'Incredibly Useful! Will help my family know about all the money and assets I have set aside for them, if something happens to me.' Rohit Bhat says 'Amazing concept! Superb application, I like the feature of Digital Will, that allows users to create their will in no time with ease. Will recommend the app to my friends.' Hritik Zutshi says 'Great concept! Great tool! Very thoughtfully created features like Digital Will and Organ Pledge make these otherwise complex processes very convenient.'",
+    "category": "general"
+  },
+  {
+    "title": "Frequently Asked Questions",
+    "content": "Q: Is Afterlife free? A: No, Afterlife offers lifetime access for a one-time payment. The standard price is ₹7,999 + GST, currently on offer at ₹3,999 + GST. Q: Is Afterlife an invite-only platform? A: You can sign up without an invite code. The invite-only label means the platform is exclusive but open for sign-ups. Q: Is my data safe? A: Yes. Afterlife uses end-to-end encryption, Aadhaar-based KYC, passkey authentication, geo-redundant storage, and is ISO-certified. All data is stored in India on Microsoft Azure. Q: Can I delete my account? A: Yes. You can request deletion via the app or by emailing hello@myafterlife.in. All data is permanently erased. Q: Is this a legally valid will? A: The Digital Will is a comprehensive succession planning document. For legal registration, you would need to follow standard legal processes. Q: Who can see my data? A: Only you and the trusted contacts you specifically assign. No one else, not even the Afterlife team, can access your encrypted data. Q: What happens to my data if Afterlife shuts down? A: Your data is encrypted and stored with geo-redundant backups. The company follows data retention policies in compliance with Indian law.",
+    "category": "faq"
+  },
+  {
+    "title": "Nominee vs Beneficiary — What Most People Get Wrong",
+    "content": "A common misconception in India is that naming a nominee means they automatically inherit your assets. In reality, a nominee is legally only a custodian or trustee — like a 'postman' for your wealth. The nominee holds the asset temporarily until it is distributed to the legal heirs. If there is a dispute between the nominee and the legal heirs, the legal heirs typically prevail in court. This is why naming a nominee is only half the job — a Will is what completes it. A simple Will avoids 90% of family disputes and cuts through months of banking and legal processes. Afterlife helps you understand this distinction and plan accordingly with both trusted contacts and a Digital Will.",
+    "category": "education"
+  },
+  {
+    "title": "Will Writing in India — Why It Matters",
+    "content": "63% of succession cases in Indian courts stem from the absence of a Will. Over 3 crore cases are still pending in courts related to succession disputes. In western countries, over 70% of the population above 40 years of age has a will, compared to less than 20% in India. You do not need a lawyer to write a valid Will in India — that is a myth. Afterlife's Digital Will feature lets you create and update your will in minutes from your phone. While the Digital Will is a comprehensive succession planning document, for legal registration you would follow the standard legal process. Having a clear Will gives your family direction and avoids disputes, delays, and confusion.",
+    "category": "education"
+  },
+  {
+    "title": "The Forgotten File — Corporate Workshops by Afterlife",
+    "content": "Afterlife conducts 'The Forgotten File' — a corporate workshop (virtual or physical) that opens employees' eyes to the gap between financial planning and financial accessibility. The 60-minute live session covers: the essential checklist every Indian professional should maintain, basics of access-ready financial planning, first steps toward protecting their family's future, why nominations and investments often go unclaimed despite being planned, what happens if you pass away without clear access instructions, and how Afterlife simplifies succession planning. Each session includes an actionable takeaway and an exclusive Afterlife demo. Companies like Wipro, Rehau, Kaya Clinic, Times Internet, Jaslok Hospital, and others have participated in these workshops.",
+    "category": "b2b"
+  },
+  {
+    "title": "Afterlife as an Employee Benefit",
+    "content": "Afterlife can be offered as an employee benefit by companies and HR teams. The tagline for this offering is 'Because caring for your employees shouldn't end at payroll.' Most employees plan everything — investments, insurance, bank accounts — but their families often cannot access this information when needed most. Afterlife is the emotional and financial safety net every employee deserves. Companies can bundle Afterlife with their Group Medical Cover (GMC) or HR products. It positions the company as one that cares about the holistic wellbeing of employees — not just during their tenure, but beyond. For B2B enquiries about employee benefit partnerships, contact hello@myafterlife.in.",
+    "category": "b2b"
+  },
+  {
+    "title": "Afterlife for Financial Distributors — Partner Dashboard",
+    "content": "Afterlife offers a dedicated Distributor Dashboard for financial advisors, insurance distributors, mutual fund distributors, wealth managers, and investment advisors. The dashboard gives partners access to client financial insights (with consent), renewal alerts and upcoming deadlines, campaign management tools to engage clients, and the ability to identify upsell and cross-sell opportunities. Client data is protected with bank-grade encryption, and all access is governed by client consent — data is exclusive to each partner and never shared across the platform. Partners benefit from increased renewals through proactive alerts, boosted upsells with real-time financial insights, deeper trust through consistent engagement, and organic growth through satisfied client referrals.",
+    "category": "b2b"
+  },
+  {
+    "title": "NRI Support — On-Ground Assistance in India",
+    "content": "Afterlife provides on-ground support in India specifically for NRIs (Non-Resident Indians) and their families. Living abroad does not eliminate responsibilities back home. Afterlife ensures your family and assets in India are supported professionally and transparently, without the need for frequent travel. The NRI support includes: insurance disputes and rejected claims with end-to-end handholding for documentation and escalation, real estate and succession-related matters including ownership clarity and coordination with legal experts, litigation coordination through trusted partners for insurance or property-related legal matters, and family support on the ground as a single point of coordination. From claims to succession clarity, Afterlife supports NRIs until the matter reaches a defined outcome.",
+    "category": "features"
+  },
+  {
+    "title": "Six Pillars of Financial Planning",
+    "content": "Afterlife educates users about the six financial pillars that constitute true financial security: 1) Tax Planning, 2) Investment Diversification, 3) Risk Mitigation, 4) Insurance Planning, 5) Succession Planning, and 6) Organizing Information. Most people focus on earning and investing but neglect the last two pillars — succession planning and organizing information. Succession planning and information organisation are the pillars that Afterlife specifically addresses. Without these, even well-planned finances can become inaccessible to your family. As Afterlife puts it: 'Earning is only half the battle. True security comes from mastering all six financial pillars.'",
+    "category": "education"
+  },
+  {
+    "title": "Auto-Triggered Delivery and Scheduling",
+    "content": "Afterlife features a sophisticated scheduling and auto-triggered delivery system. You can schedule information, documents, and messages to be delivered at specific dates or triggered by specific events. The scheduling options include: Custom Scheduling — set specific dates for delivery such as birthdays, anniversaries, or milestones. Posthumous Scheduling — information and messages are delivered after your passing. Auto-Triggered Delivery — uses death identification and validation protocols to trigger immutable delivery of assigned information to your trusted contacts. This ensures that your loved ones receive what they need exactly when they need it, without any manual intervention required.",
+    "category": "features"
+  },
+  {
+    "title": "Afterlife Technology and Patent",
+    "content": "Afterlife holds a patent (Application Number: 202221060617) for its proprietary technology algorithm. The platform is built as a mobile-first application with several unique technology features: AI-powered Liveliness Monitoring to detect when support is needed, Liveliness Login that uses AI to restrict unauthorized access, One Person One Device One KYC policy to prevent duplication, end-to-end encryption with best-in-class encryption algorithms, blockchain integration with immutable smart contracts for delivery assurance, and integrations with UIDAI, DigiLocker, and other government and financial platforms. The technology is compliant with GDPR, CCPA, DPDP Act, and ISO standards. All data is stored on Microsoft Azure within India with geo-redundant storage.",
+    "category": "security"
+  },
+  {
+    "title": "Document Discovery Feature",
+    "content": "Afterlife's Document Discovery feature helps families find critical files faster when it matters most. After a loved one passes away, families often struggle to locate important documents — insurance policies, bank statements, property papers, investment records, and legal documents. These are typically scattered across physical lockers, email accounts, cloud storage, and various institutions. Document Discovery assists in systematically identifying and retrieving these critical documents, reducing the time and stress involved in the claim and succession process. This is available as part of Afterlife's ancillary services.",
+    "category": "features"
+  },
+  {
+    "title": "Afterlife Messaging — Leave Nothing Unsaid",
+    "content": "Afterlife Messaging is your superpower to get your messages delivered even after you are gone. You can write, record videos, and capture your unexpressed emotions, wishes, important instructions, and more for your loved ones. Messages can be scheduled for specific dates — like a birthday wish for your grandchild years from now — or triggered by specific events including posthumous delivery. Think of it as ensuring your voice, wisdom, and love reach the people who matter most, exactly when they need it. Whether it is a message of comfort for your spouse, career advice for your children, or simply saying 'I love you' one more time — Afterlife ensures nothing is left unsaid.",
+    "category": "features"
+  },
+  {
+    "title": "The Unclaimed Wealth Crisis in India — Key Statistics",
+    "content": "The scale of unclaimed wealth in India is staggering. Over ₹78,213 crore lies unclaimed in bank accounts (RBI, May 2024). ₹22,000 crore lies unclaimed with life insurance companies (Times of India, Jan 2025). More than ₹54,658 crore lies unclaimed in inoperative EPF accounts (MoneyLife, Aug 2024). The total of forgotten wealth of ordinary Indians exceeds ₹2,00,000 crore locked in unclaimed assets (MoneyLife, Aug 2024). Behind every number is a story — a family unable to access what was rightfully theirs. Forgotten deposits, lost policies, unclaimed pensions — each one represents someone's hard-earned effort left behind. Afterlife exists to ensure this does not happen to your family.",
+    "category": "education"
+  },
+  {
+    "title": "Before and After — Life with Afterlife",
+    "content": "Without Afterlife: Important information is scattered online, offline, and some still in your thoughts. Delivery of information after you is uncertain, difficult, and partial. Expressing love, emotions, and wishes posthumously is not possible. The fate of social media accounts is uncertain and vulnerable. Insurance and other benefits go unused. Creating a will is obscure, tedious, and inconvenient. Asset discovery and claim assistance is a nightmare. You are stressed about what will happen to your loved ones. With Afterlife: All information is organised and accessible in one place. Assured delivery of complete information without hassle. Expressing your love and wishes posthumously is possible with ease. You have complete control over social media account access and closure. Easy access and recall of financial benefits. Will creation is convenient, digital, and simplified. Claim assistance is guided and optimised. You have control and peace of mind.",
+    "category": "general"
+  },
+  {
+    "title": "Afterlife Gifting",
+    "content": "Afterlife Gifting is an AI-powered personal gifting assistance feature available to subscribers. It allows you to plan and schedule gifts for your loved ones — both during your lifetime and beyond. Whether it is a birthday gift, anniversary surprise, or a special something you want delivered after you are gone, Afterlife Gifting uses AI to help you choose meaningful gifts and ensure they reach the right person at the right time. This feature embodies Afterlife's philosophy of being 'Your friend for Life and Beyond' — helping you express love and care through thoughtful gestures, even when you cannot be there in person.",
+    "category": "features"
+  },
+  {
+    "title": "Mental Health and Legacy Planning",
+    "content": "The uncertainty around succession planning does not just impact finances — it takes a toll on mental wellbeing. Common emotional burdens include stress about whether your family will find your assets, anxiety about unresolved disputes, fear of the unknown regarding what happens to your digital presence, financial insecurity for dependents, constant worry about incomplete preparation, and loss of focus on daily life. Afterlife addresses these emotional burdens by providing certainty, assurance, and peace of mind. When you know your information is organised, assigned, and will be delivered to the right people, the mental load lifts. Preparedness is not tomorrow's job — it is today's. As Afterlife says: 'Peace of mind can be planned.'",
+    "category": "education"
+  },
+  {
+    "title": "Corporate Workshop — The Forgotten File — Detailed Format",
+    "content": "Afterlife's corporate workshop 'The Forgotten File' follows a structured interactive format. It begins with a '60-Second Legacy Audit' — a quick personal check-in where attendees count how many financial accounts, policies, and investments they hold, versus how many their family knows about and can access. The difference is their family's blind spot. The workshop then covers: Poll-driven awareness sessions about unclaimed deposits, nominee vs beneficiary myths, the importance of Wills, claim settlement challenges, organ donation as legacy, and the six pillars of financial planning. It uses live polling questions throughout to keep engagement high. The session closes with an exclusive Afterlife demo and a special offer for attendees — lifetime access at ₹999 + GST (versus the standard ₹7,999 + GST). Companies that have participated include Wipro (35 conversions from first workshop), Rehau (370 employees), Kaya Clinic (1000 employees), Times Internet (1200 employees), Jaslok Hospital (850 employees), and Tech9.",
+    "category": "b2b"
+  },
+  {
+    "title": "Afterlife for NRIs — Miles Away, Still In Control",
+    "content": "Afterlife provides structured, transparent, on-ground support in India specifically for NRIs. When a complex situation arises — insurance disputes, real estate succession, or legal matters — Afterlife becomes the single point of coordination. The approach follows four steps: 1) Case Understanding and Assessment — evaluating the situation (insurance, real estate, or legal) and mapping next steps. 2) Documentation and Claim Readiness — guiding families through documentation to ensure completeness and reduce delays or rejections. 3) On-Ground Coordination in India — collaborating with insurers, institutions, and trusted legal partners to expedite matters. 4) Ongoing Updates and Visibility — clear updates, status tracking, and guidance without chasing multiple parties. Customised support covers insurance disputes and rejected claims, real estate and succession-related matters, litigation coordination through trusted partners, and family support on the ground. One platform, one point of contact, complete peace of mind.",
+    "category": "features"
+  },
+  {
+    "title": "Myths and Facts About Succession in India",
+    "content": "Here are common myths and facts about succession planning in India that every family should know: MYTH: 'You need a lawyer to write a valid Will in India.' FACT: You do not need a lawyer — anyone can write a valid will. FACT: 'Unclaimed deposits in India exceed ₹1.5 lakh crore.' This is confirmed by multiple sources. MYTH: 'A Nominee automatically becomes the legal owner of your assets.' In reality, a nominee is legally just a custodian or trustee — like a 'postman' for your wealth. MYTH: 'If you have a joint account, your family automatically gets the money.' This is not always true and depends on the type of joint holding. FACT: 'Without a Will, your assets are distributed as per the Indian Succession Act.' This means the court decides, not your family. A simple Will avoids 90% of family disputes and cuts through months of banking and legal processes. Naming a nominee is only half the job — a Will is what completes it.",
+    "category": "education"
+  },
+  {
+    "title": "Afterlife Product Tiers and Webinar Offers",
+    "content": "Afterlife's standard pricing is ₹7,999 + GST for lifetime access to the full platform. There is also a promotional offer at ₹3,999 + GST for lifetime access. For corporate workshop attendees, a special webinar offer is available at ₹999 + GST for lifetime access. All tiers include access to the same core features: Secured Digital Vault, Digital Will, Trusted Contacts, Claim Assistance, Document Discovery, Future Scheduling, Organ Pledge, Afterlife Messaging, and Afterlife Gifting. Claim Assistance is available as a separate pay-as-you-use ancillary service. There is no recurring subscription — one payment for lifetime access.",
+    "category": "pricing"
+  },
+  {
+    "title": "Afterlife Distributor Partnership — How It Works",
+    "content": "Afterlife's distributor partnership works in three simple steps: Step 1 — You recommend Afterlife to your clients. Step 2 — Clients sign up and grant you data access via consent. Step 3 — You access your exclusive Distributor Dashboard to serve, support, and grow. The dashboard is your command centre — all your clients, all the insights, all in one place. It provides access to clients' key financial information (with their consent), renewal alerts and upcoming deadlines, campaign management tools to engage clients, and the ability to identify upsell and cross-sell opportunities. Data security is paramount: bank-grade encryption protects all data, client consent governs all access, data is exclusive to each partner and never shared across the platform, and the system is 100% compliant and transparent. This is ideal for banks, lenders, insurance distributors and agents, mutual fund distributors, wealth managers, and investment advisors.",
+    "category": "b2b"
+  },
+  {
+    "title": "Afterlife — Current Platform and Integration Status",
+    "content": "As of early 2026, Afterlife has over 5,100 users on the web app. The Android app is live on the Play Store. The iOS app is live on the App Store. The web app is active and transitioning to mobile. The AI Agent Voice Bot is live. Phase 2 UI/UX prototyping is in process. In-app wallet and tokens are under development. Integration partnerships include CoverSure (confirmed for insurance distribution), Synergy Insurance (confirmed for renewals), Yes Bank (in advanced discussions), ICICI Bank (meeting with startup team), Fisdom (discussion with founder for wealth management), and Loop Health (corporate health insurance). The platform holds Patent Application Number 202221060617 and is compliant with GDPR, CCPA, DPDP Act, and ISO standards.",
+    "category": "general"
+  },
+  {
+    "title": "Afterlife — Client Testimonials from Professionals",
+    "content": "Here is what professionals across industries say about Afterlife: Jyoti David (Marketing Professional): 'The Concept of Afterlife is so touching. Until now we only thought about our will but Afterlife is something beyond that. I am impressed and touched.' Jitendra Purohit (Investment Banker): 'I got to know about Afterlife in a seminar, I liked the concept. I shared it with my family and friends and we all are eager to use Afterlife services.' Rohi Kathal (Chartered Accountant): 'AFTERLIFE is the need of the hour. Being a CA, I know how people struggle for assets after losing their loved ones. Afterlife is a solution to all those problems.' Rohit Bhat (MD - TS Plus): 'A very heart-touching concept. I never thought it would be possible to give certain things to our family after our death.' Alex George (RBM - Healthcare Global): 'Never came across such concept before. It surely solves a big problem and has great potential.' Sunil Kumar Mohapatra (Group CRO, VerSe Innovation / Dailyhunt & Josh): 'It shall add value to consumers' life and has huge business opportunity.'",
+    "category": "general"
+  },
+  {
+    "title": "Legacy Audit — A Quick Self-Assessment",
+    "content": "Afterlife encourages everyone to do a quick '60-Second Legacy Audit'. Ask yourself two questions: 1) How many financial accounts, policies, and investments do you currently hold? 2) How many of those does your family know about and can access? The difference between your two numbers is your family's blind spot. This gap is exactly what Afterlife is built to close. Most people are surprised by how large the gap is. In your absence, will your family have your guidance, or just your silence? Other important questions to consider: Could your family navigate your financial world as easily as you do today? Do you know that a nominee is legally just a custodian, not the final owner? Where do you stand with your own Will? Would having an expert to guide through claim processes be a relief for your family? Preparedness is not tomorrow's job — it is today's.",
+    "category": "education"
+  },
+  {
+    "title": "Afterlife Future Roadmap",
+    "content": "Afterlife has several exciting developments planned for the future: AI-backed Audio Will supporting multiple Indian languages, Social Will and Digital Journal features, Bill Payment System integration, enhanced Distributor Dashboard for B2B partners, Organ Donor Dashboard, Multi-lingual AI Chatbot for broader accessibility, Insurance Advisory services, and Investment Advisory services. The platform is also working on in-app wallet and tokens, a completely redesigned mobile UI/UX, and deeper integrations with UIDAI, CIBIL, and major banks. The goal is to make Afterlife the single comprehensive platform for financial succession, legacy planning, and family preparedness across India and for NRIs globally.",
+    "category": "general"
+  }
+]
