@@ -113,7 +113,7 @@ export async function POST(request: NextRequest) {
         agentMode,
         messageCount: history.length + 1,
         recentCTAKeys,
-        isEmotionalContext: intent === 'HANDOFF_NEEDED',
+        isEmotionalContext: false, // HANDOFF_NEEDED already handled above
       });
 
       const llmResult = await generateResponse({
